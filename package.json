@@ -1,0 +1,13 @@
+{
+  "name": "json-parser",
+  "version": "1.0.0",
+  "main": "tokenizer.js",
+  "type": "module",
+  "scripts": {
+    "test": "node scripts/run-tests.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
