@@ -46,12 +46,12 @@ npm test
 
 ### Parse from inline JSON string: 
 ```bash
-npm run cli '{"name":"Avinash","skills":["JS","Three.js"]}'
+node src/index.js '{"name":"Avinash","skills":["JS","Three.js"]}'
 ```
 
 ### Parse from a file:
 ```bash
-npm run cli --file examples/student.json
+node src/index.js --file examples/student.json
 ```
 
 ---
